@@ -1,5 +1,5 @@
 The graph is constructed by iterating through the desired number of nodes. The degree of the current node is found and connected to a random other node that isn’t K connected. If a node is already K connected then it is skipped over. The Constructor in the Random K regular graph and the getNotFullNodes method are involved in this. A very quick run time analysis showed that the time needed to generate the graph increases linearly with the K, the degree of each node in the graph and exponentially with N, the number of nodes in the graph. Both plots have time in seconds on the y axis.
- 
+ ![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 Number of Edges per vertex
  
 					Number of Vertices
